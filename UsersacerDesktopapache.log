@@ -1,0 +1,4 @@
+2021-12-17 14:17:41 INFO  Property_File:11 - info
+2021-12-17 14:17:41 WARN  Property_File:12 - warn
+2021-12-17 14:17:41 ERROR Property_File:13 - error
+2021-12-17 14:17:41 FATAL Property_File:14 - fatal
